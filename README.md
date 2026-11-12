@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Starter README from Claude -->
+# Hi, I'm Inven 👋
+
+I build interactive maps and data visualizations, mostly with Leaflet.js and D3.js.
+
+## Projects
+- [Latin America & Caribbean Map](https://inventory50.github.io/americas-map/): clickable country profiles for 51 countries and territories
+- [U.S. Military Footprint](https://inventory50.github.io/us_military_footprint/): interactive map of U.S. installations worldwide
+
+## Currently learning
+- Git and GitHub
+- Connecting to different LLMs
